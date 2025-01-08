@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/medusa0xf/Prometheus-Finder/blob/master/b0UoL5.webp)
 
 # Prometheus-Finder
-This python script finds promethus metrics endpoint in the given list of URLs
+This Python script finds the promethus metrics endpoint in the given list of URLs.
 
 Command: 
 ```
